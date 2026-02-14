@@ -76,7 +76,7 @@ airstep-ui/
 
 <hr>
 
-<<h2>📸 Proje Önizleme</h2>
+<h2>📸 Proje Önizleme</h2>
 
 ![](airstep.png)
 
