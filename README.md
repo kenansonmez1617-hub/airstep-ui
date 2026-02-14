@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<title>airstep-ui</title>
+
 </head>
 
 <body>
@@ -10,7 +10,7 @@
 <h1 align="center">👟 AirStep UI</h1>
 
 <p align="center">
-HTML ve CSS kullanılarak geliştirilmiş modern ve responsive ayakkabı tanıtım arayüzü.
+HTML ve CSS kullanılarak geliştirilmiş modern ve responsive bir ayakkabı markasının klonlanmış tanıtım arayüzü.
 </p>
 
 <hr>
@@ -85,7 +85,7 @@ airstep-ui/
 
 <h2>⚙️ Canlı Demo</h2>
 
-![]pairstep.gif)
+![]airstep.gif)
 
 
 <hr>
